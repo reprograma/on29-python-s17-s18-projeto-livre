@@ -1,10 +1,13 @@
 ## Contexto 
 Esse projeto consiste na análise dos dados de Práticas de esporte e atividade física do ano de 2015.
-O objetivo desse projeto é Análisar prática e a não prática esportiva da população brasileira, identificando esportes mais praticados, relação por sexo, raça e nível de instução. Também analisar as causas e motivos que levam as pessoas a deixam ou a nunca praticarem o esporte. 
-Para desenvolver esse projeto, desenvolvi uma análise exploratória de dados estatisticos e utilizei o Tableau para gerar as visualizações das nossas análises.
+O objetivo desse projeto é Análisar prática e esportiva da população brasileira, identificando esportes mais praticados, relação por sexo, idade e região.
+Também analisar os motivos que levam as pessoas a praticarem o esporte e sua frequencia.
+Para desenvolver esse projeto, desenvolvi uma análise exploratória de dados estatisticos e utilizei o Matplot para gerar as visualizações das análises.
 
 ### Objetivos gerais e específicos do projeto 
-
+Tem-se como objetivo geral a identificação de quais são os esportes mais praticados pela população. 
+- Relação dos esportes com gênero e idade
+- Relação do motivo e frequencia da prática
 
 ### Bases escolhidas
 
