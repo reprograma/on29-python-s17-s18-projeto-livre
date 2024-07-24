@@ -1,18 +1,23 @@
-# Exercício de Casa 🏠 
+## Tema
+Análise da Vivência Lésbica no Brasil e no Mundo: Educação, Saúde e Estilo de Vida
 
-## Nome do Exercicio
+## Bases Escolhidas com Fontes
+1. **Lesbocenso 2022**: Utilizado como referência principal para o projeto.
+2. **Pesquisa Original**: Formulário detalhado contendo 19 perguntas que abordam aspectos influentes na vida pessoal, profissional, financeira e de saúde das participantes.
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
----
+## Objetivos Gerais e Específicos do Projeto
 
-Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
+### Objetivo Geral
+Investigar e documentar as experiências e vivências de mulheres lésbicas no Brasil e no mundo, com um enfoque abrangente em aspectos de escolaridade, saúde física e mental, e estilo de vida. O objetivo é fornecer uma análise detalhada e comparativa que possa contribuir para uma compreensão mais profunda das condições e desafios enfrentados por mulheres lésbicas em diferentes contextos culturais e socioeconômicos.
 
-- [ ] Fiz o fork do repositório.
-- [ ] Clonei o fork na minha máquina (`git clone url-do-meu-fork`).
-- [ ] Resolvi o exercício.
-- [ ] Adicionei as mudanças. (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
-- [ ] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](https://github.com/mflilian/repo-example/blob/main/exercicios/para-casa/instrucoes-pull-request.md).
+### Objetivos Específicos
+1. Coletar e analisar dados sobre a escolaridade de mulheres lésbicas.
+2. Examinar o acesso à saúde das participantes.
+3. Entender as diferentes formas de viver e desafios enfrentados pelas mulheres lésbicas em diferentes contextos geográficos e culturais.
+4. Avaliar a influência da vivência lésbica na vida pessoal, profissional e financeira.
+
+## Ferramentas Utilizadas
+- **Formulário online**: Contendo 19 perguntas sobre diversos aspectos da vida das participantes.
+  - **Período de aplicação**: Aberto no sábado 20/7 à tarde e fechado na segunda 22/7 de manhã.
+  - **Total de respostas**: 55 respostas anônimas.
+- **Lesbocenso 2022**: Utilizado como base de referência para o contexto e aprofundamento do tema.
