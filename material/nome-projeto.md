@@ -1,12 +1,15 @@
 ## Contexto 
-Esse projeto consiste na análise de xxxxxx. O objetivo desse projeto é xxxxxxxxx.
-Para desenvolver esse projeto, desenvolvemos uma análise exploratória de dados xxxxxxx e utilizamos o Tableau para gerar a visualização das nossas análises.
+Esse projeto consiste na análise dos dados de Práticas de esporte e atividade física do ano de 2015.
+O objetivo desse projeto é Análisar prática e a não prática esportiva da população brasileira, identificando esportes mais praticados, relação por sexo, raça e nível de instução. Também analisar as causas e motivos que levam as pessoas a deixam ou a nunca praticarem o esporte. 
+Para desenvolver esse projeto, desenvolvi uma análise exploratória de dados estatisticos e utilizei o Tableau para gerar as visualizações das nossas análises.
 
 ### Objetivos gerais e específicos do projeto 
 
+
 ### Bases escolhidas
 
-- Base 1 (fonte)
-- Base 2 (fonte)
+- PNDA - Práticas de esporte e atividade física 2015
+fonte: (https://www.ibge.gov.br/estatisticas/sociais/populacao/19898-suplementos-pnad3.html?edicao=17989&t=resultados)
+
 
 ## Ferramentas utilizadas
