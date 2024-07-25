@@ -1,13 +1,13 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Primeira parte do projeto final
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+# Tema : Correlação entre as top 10 músicas no Spotify
 ---
 
-Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
+A base escolhida foi o arquivo CSV do Kaggle: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+O objetivo do projeto foi identificar as 10 músicas mais tocadas na plataforma Spotify em 2023, em relação ao numero de streams. Foi verificado as semelhanças entre as músicas top 10 e comparado a mais duas outras plataformas que são Apple e Deezer. Essas análises servirão como suporte para criação de músicas que poderão obter maior atratividade para o público.
+Utilizei as bibliotecas Pandas, Seaborn e Matplotlib.
 
 - [ ] Fiz o fork do repositório.
 - [ ] Clonei o fork na minha máquina (`git clone url-do-meu-fork`).
