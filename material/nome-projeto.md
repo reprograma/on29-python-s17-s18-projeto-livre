@@ -1,12 +1,21 @@
-## Contexto 
-Esse projeto consiste na análise de xxxxxx. O objetivo desse projeto é xxxxxxxxx.
-Para desenvolver esse projeto, desenvolvemos uma análise exploratória de dados xxxxxxx e utilizamos o Tableau para gerar a visualização das nossas análises.
+Tema: Informações territoriais sobre os povos indígenas no Brasil
 
-### Objetivos gerais e específicos do projeto 
+Base escolhida: terra_indigena.csv
 
-### Bases escolhidas
+Fonte da base: https://basedosdados.org/dataset/33b49786-fb5f-496f-bb7c-9811c985af8e?table=0a2d8187-f936-437d-89db-b4eb3a7e1735 
 
-- Base 1 (fonte)
-- Base 2 (fonte)
+Objetivo geral:
+- Identificar informações territoriais sobre os povos indígenas no Brasil
 
-## Ferramentas utilizadas
+Objetivos específicos:
+- Mapear a distribuição de etnias por estado
+- Apontar a predominância de etnias no estado com maior ocorrência
+- Identificar as etnias mais recorrentes no território mais indígena do Brasil
+- Consolidar a visualização dos dados diagnosticados
+- Apresentar resultados e conclusão das análises 
+
+Ferramentas utilizadas:
+Google Docs
+Google Coolab
+Microsoft Excel
+Jupyter
