@@ -1,0 +1,13 @@
+id_genero,Gênero_x, Frequência da prática de esporte,Norte_x,Nordeste _x,Sudeste_x,Sul_x,Centro-Oeste_x,Gênero_y,motivo de terem praticado esporte,Norte_y,Nordeste _y,Sudeste_y,Sul_y,Centro-Oeste_y
+1.1,Homem,Menos que uma vez por semana,256.946,528.793,1008.99,383.54,153.877,Homem,Indicação médica,83.79,267.398,548.033,174.523,121.941
+1.2,Homem,Uma vez por semana,542.269,1692.015,2843.453,1259.101,462.456,Homem,Melhorar ou manter o desempenho físico,317.038,1027.335,2025.606,700.82,452.938
+1.3,Homem,Duas vezes por semana,512.572,1305.729,1984.942,777.064,441.15,Homem,Melhorar a qualidade de vida ou o bem estar,304.05,864.805,2382.919,888.28,456.783
+1.4,Homem,Três vezes por semana,473.794,1254.793,1978.954,662.904,450.477,Homem,Gostar de competir,323.465,985.824,1158.698,502.662,246.694
+1.5,Homem,Quatro vezes por semana ou mais,520.079,1571.598,2296.251,656.285,487.723,Homem,Relaxar ou se divertir,1162.977,2863.414,3459.375,1175.332,609.125
+1.6,,,,,,,,Homem,Outro motivo,114.34,344.152,537.959,297.277,108.202
+2.1,Mulher,Menos que uma vez por semana,96.638,117.08,252.269,146.452,76.336,Mulher,Indicação médica,150.872,732.822,1184.72,389.168,233.673
+2.2,Mulher,Uma vez por semana,134.408,312.331,569.827,378.023,107.907,Mulher,Melhorar ou manter o desempenho físico,221.121,745.04,1387.896,530.54,328.441
+2.3,Mulher,Duas vezes por semana,214.122,507.46,1521.276,548.866,283.147,Mulher,Melhorar a qualidade de vida ou o bem estar,336.817,1062.095,2510.175,1023.752,556.345
+2.4,Mulher,Três vezes por semana,327.71,998.403,1894.766,668.236,458.77,Mulher,Gostar de competir,65.985,167.497,216.941,88.727,58.807
+2.5,Mulher,Quatro vezes por semana ou mais,320.615,1296.911,1949.134,665.012,448.373,Mulher,Relaxar ou se divertir,291.123,429.272,750.253,298.7,162.952
+2.6,,,,,,,,Mulher,Outro motivo,27.575,95.459,137.287,75.702,34.315
