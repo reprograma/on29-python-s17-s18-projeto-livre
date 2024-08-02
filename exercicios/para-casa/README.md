@@ -1,9 +1,9 @@
 ## Tema
-Análise da Vivência Lésbica no Brasil e no Mundo: Educação, Saúde e Estilo de Vida
+**Análise da Vivência Lésbica no Brasil e no Mundo: Educação, Saúde e Estilo de Vida**
 
 ## Bases Escolhidas com Fontes
 1. **Lesbocenso 2022**: Utilizado como referência principal para o projeto.
-2. **Pesquisa Original**: Formulário detalhado contendo 19 perguntas que abordam aspectos influentes na vida pessoal, profissional, financeira e de saúde das participantes.
+2. **Pesquisa Original**: Formulário detalhado contendo 19 perguntas que abordam aspectos influentes na vida pessoal, profissional, financeira e de saúde das participantes. Não foi encontrado nenhuma outra pesquisa com dados para usar como dataset.
 
 ## Objetivos Gerais e Específicos do Projeto
 
@@ -21,3 +21,7 @@ Investigar e documentar as experiências e vivências de mulheres lésbicas no B
   - **Período de aplicação**: Aberto no sábado 20/7 à tarde e fechado na segunda 22/7 de manhã.
   - **Total de respostas**: 55 respostas anônimas.
 - **Lesbocenso 2022**: Utilizado como base de referência para o contexto e aprofundamento do tema.
+
+## Links
+- **Tableau**: ([Gráficos - Projeto final - Karimã](https://public.tableau.com/app/profile/karim.souza/viz/Projetofinal_17225617961300/Amostragem-Escolaridadde))
+- **Github**: ([Github - Karimã](https://github.com/kaarimaa/on29-python-s17-s18-projeto-livre))
