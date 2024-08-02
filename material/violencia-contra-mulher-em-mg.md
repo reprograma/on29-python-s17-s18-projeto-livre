@@ -44,4 +44,4 @@ Site: https://dados.mg.gov.br/dataset/dados_violencia_mulheres_ses
 - Python:
     - Google Colab
     - Visual Studio Code
-- Tableau
+- <a href='https://public.tableau.com/app/profile/maria.eduarda.bastos.de.mello/viz/reprograma-ProjetoFinal/Dashboard'>Tableau</a>
