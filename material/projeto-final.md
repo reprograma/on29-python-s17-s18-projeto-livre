@@ -1,8 +1,10 @@
-Tema: Informações territoriais sobre os povos indígenas no Brasil
+Tema: Análise das etnias indígenas brasileiras atendidas pelo SUS
 
 Base escolhida: terra_indigena.csv
 
 Fonte da base: https://basedosdados.org/dataset/33b49786-fb5f-496f-bb7c-9811c985af8e?table=0a2d8187-f936-437d-89db-b4eb3a7e1735 
+
+link tableau: https://public.tableau.com/app/profile/ana.medeiros/viz/ProjetoFinal-AnaMedeirosePmelaFarias/EtniasdomunicpioSantaIsabeldoRioNegro
 
 Objetivo geral:
 - Identificar informações territoriais sobre os povos indígenas no Brasil
