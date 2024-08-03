@@ -49,8 +49,7 @@ Para desenvolver este projeto, seguimos as etapas descritas abaixo:
 - **Pandas**: Para análise exploratória e manipulação dos dados.
 - **Numpy**: Para cálculos e operações numéricas.
 - **Matplotlib**: Para criação de gráficos e visualizações.
-- **Tableau**: Para visualizações interativas (planejado para a próxima etapa).
-
+- **Tableau**: Para visualizações interativas - https://public.tableau.com/views/ProjetoFinal-LorenaeRaphaelyReprograma/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Resultados Preliminares
 
