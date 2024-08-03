@@ -2,7 +2,7 @@
 
 O presente projeto consiste na análise das desigualdades entre as regiões Sudeste e Nordeste do Brasil, focando especificamente nos estados de São Paulo e Pernambuco, com base em dados de IDH (Índice de Desenvolvimento Humano) e PIB (Produto Interno Bruto) municipal obtidos no ano de 2010. O objetivo deste trabalho é evidenciar a desigualdade social existente entre essas duas regiões por meio dos indicadores mencionados.
 
-Para desenvolver esse trabalho, fizemos uma análise exploratória de dados do PIB e IDH dos municípios que compõem estes dois estados utilizando a biblioteca pandas, numpy e matplotlib para manipulação dos dados e apresentação de gráficos. Numa próxima etapa, utilizaremos o Tableau para criar visualizações interativas que permitam uma análise mais aprofundada e intuitiva dos dados.
+Para desenvolver esse trabalho, fizemos uma análise exploratória de dados do PIB e IDH dos municípios que compõem estes dois estados utilizando a biblioteca pandas, numpy e matplotlib para manipulação dos dados e apresentação de gráficos. Na segunda  etapa, utilizamos  o Tableau para criar visualizações interativas que permitisse uma análise mais aprofundada e intuitiva dos dados.
 
 
 ## Objetivos
@@ -43,13 +43,16 @@ Para desenvolver este projeto, seguimos as etapas descritas abaixo:
 4. **Exportação de Dados**:
    - Exportamos os dados finais para um arquivo CSV.
 
+## Visualização interativa Tableau
+
+-**Tableau**: - https://public.tableau.com/views/ProjetoFinal-LorenaeRaphaelyReprograma/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Ferramentas Utilizadas
 
 - **Pandas**: Para análise exploratória e manipulação dos dados.
 - **Numpy**: Para cálculos e operações numéricas.
 - **Matplotlib**: Para criação de gráficos e visualizações.
-- **Tableau**: Para visualizações interativas - https://public.tableau.com/views/ProjetoFinal-LorenaeRaphaelyReprograma/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Tableau**: Para visualizações interativas 
 
 ## Analise conclusiva
 
