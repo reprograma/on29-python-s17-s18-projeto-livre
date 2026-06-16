@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+  <img style="background: white;width: 30%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
 # Reprograma | Bootcamp de Análise de Dados
-## 🚀 Exercícios para Casa 
+## 🚀 Exercícios
 Turma Online on29 | Semana 17/18 | 2024 | Professora Jessica Ferreira
 
 Este repositório contém o Projeto Livre desenvolvido durante as **Semanas 17 e 18** do curso de Análise de Dados da turma Online On29 da Reprograma. O projeto foi criado de forma independente, permitindo a aplicação prática dos conhecimentos adquiridos ao longo do curso. 
@@ -33,21 +33,8 @@ O repositório está organizado da seguinte maneira:
 - Matplotlib & Seaborn: Criação de gráficos e visualizações.
 - Google Colab Notebook: Ambiente interativo para análise e desenvolvimento.
 
+---
 
-
-# Tema da Aula
-
-Turma Online 29 | Python | Semanas 17 e 18 | 2024 | Jessica Ferreira
-
-### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras instruções caso necessário]
-
-### Resumo
-O que veremos na aula de hoje?
 * [Slide Semana 17](https://docs.google.com/presentation/d/1DZGufQqYXRpK9STvK_hIHLUxAz8zk9yy/edit#slide=id.p1)
 * [Slide Semana 18]()
 
