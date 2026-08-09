@@ -1,20 +1,40 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+  <img style="background: white;width: 30%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios
+Turma Online on29 | Semana 17/18 | 2024 | Professora Jessica Ferreira
 
-Turma Online 29 | Python | Semanas 17 e 18 | 2024 | Jessica Ferreira
+Este repositório contém o Projeto Livre desenvolvido durante as **Semanas 17 e 18** do curso de Análise de Dados da turma Online On29 da Reprograma. O projeto foi criado de forma independente, permitindo a aplicação prática dos conhecimentos adquiridos ao longo do curso. 
 
-### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras instruções caso necessário]
+## 📌 Descrição
+O Projeto Livre tem como objetivo consolidar as habilidades de análise de dados por meio de um estudo de caso escolhido pela estudante. O trabalho envolve **coleta, limpeza, exploração, visualização e interpretação de dados**, culminando na apresentação de insights relevantes.
 
-### Resumo
-O que veremos na aula de hoje?
+## 🎯 Objetivos do projeto
+- Definir uma pergunta de pesquisa ou problema a ser analisado.
+- Coletar e limpar os dados necessários.
+- Aplicar análise exploratória para entender padrões e tendências.
+- Criar visualizações para comunicar os insights obtidos.
+- Elaborar um relatório final apresentando as conclusões.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- main.py: Código principal contendo a análise de dados.
+- data/: Pasta com os arquivos de dados utilizados.
+- notebooks/: Google Colab Notebooks contendo análises intermediárias.
+- requirements.txt: Lista de dependências do projeto.
+- README.md: Este documento explicativo.
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem principal para análise de dados.
+- Pandas: Manipulação e limpeza de dados.
+- NumPy: Operações matemáticas e estatísticas.
+- Matplotlib & Seaborn: Criação de gráficos e visualizações.
+- Google Colab Notebook: Ambiente interativo para análise e desenvolvimento.
+
+---
+
 * [Slide Semana 17](https://docs.google.com/presentation/d/1DZGufQqYXRpK9STvK_hIHLUxAz8zk9yy/edit#slide=id.p1)
 * [Slide Semana 18]()
 
